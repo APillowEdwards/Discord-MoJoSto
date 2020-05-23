@@ -1,0 +1,17 @@
+{
+  "name": "adny-mjs-bot",
+  "version": "0.0.1",
+  "description": "Adny's Pauper MoJhoStoBot",
+  "main": "bot.js",
+  "author": "Andrew Pillow-Edwards",
+  "dependencies": {
+    "-": "0.0.1",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "puppeteer": "^3.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "save": "^2.4.0",
+    "winston": "^3.2.1"
+  }
+}
